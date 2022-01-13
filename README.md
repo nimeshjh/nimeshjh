@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nimesh
 - 👀 Mechatronics Engineering Undergrad
-- 🌱 Game Developer | Web Developer | Rc Planes, Drones Creator & Piolot
+- 🌱 Game Developer | Web Developer | Rc Planes, Drones Creator & Pilot
 - 💞️ I’m looking to collaborate on Game Development
 - 📫  reach me @fb : nimesh.herath.395
 
