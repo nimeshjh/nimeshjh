@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Nimesh
-- 👀 Mechatronics Engineering Undergrad
-- 🌱 Game Developer | Web Developer | Rc Planes, Drones Creator & Pilot
-- 💞️ I’m looking to collaborate on Game Development
-- 📫  reach me @fb : nimesh.herath.395
+- ⚙️ Mechatronics Engineering Undergrad
+- 🖥️ Game Developer | Rc Planes, Drones Creator & Pilot
+- 🌐 Reach me : www.nimeshherath.info
 
 <!---
 nimeshjh/nimeshjh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
