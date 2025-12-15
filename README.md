@@ -266,5 +266,5 @@ jobs:
 4. Under "Workflow permissions", select **"Read and write permissions"**
 5. Run the workflow manually or wait for the scheduled run
 
-</details>
+</details>  
 
