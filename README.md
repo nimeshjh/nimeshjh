@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🔥+Founder+%26+CEO+of+Ignitive+Labs;🎮+Multiplayer+Game+Specialist+%7C+Unity+Asset+Publisher;🤖+LLM+%26+AI+Engineer+%7C+Building+Next-Gen+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Founder+%26+CEO+of+Ignitive+Labs;Multiplayer+Game+Specialist;Unity+Asset+Store+Publisher;LLM+%26+AI+Engineer;Mechatronics+Engineer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -40,34 +40,27 @@
 <!-- 👤 ABOUT ME SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding Animation" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 🚀 `whoami`
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```typescript
-const nimesh: Developer = {
-    name: "Nimesh Herath",
-    username: "nimeshjh",
-    title: "Founder & CEO @ Ignitive Labs",
-    
-    expertise: [
-        "🎮 Multiplayer Game Systems",
-        "🤖 LLM & AI Integration",
-        "⚙️ Mechatronics Engineering",
-        "🛩️ RC Aviation Enthusiast"
-    ],
-    
-    currently: {
-        building: "Next-Gen Multiplayer Experiences",
-        learning: "Advanced AI/ML for Games",
-        publishing: "Unity Asset Store Tools"
-    },
-    
-    funFact: "I build things that fly 🛩️ and games that connect! 🌐"
-};
-```
+<br/>
 
-<br clear="right"/>
+🔥 **Founder & CEO** at **Ignitive Labs** — A game development studio
+
+🎮 **Specializing in** Multiplayer Games & Real-time Networking
+
+🤖 **AI Enthusiast** — LLM Integration & Intelligent Game Systems
+
+⚙️ **Mechatronics Engineer** — Bridging hardware and software
+
+🛩️ **RC Aviation Hobbyist** — Building things that fly!
+
+📦 **Unity Asset Store Publisher** — Creating tools for developers
+
+🎯 **Currently Building:** Next-gen multiplayer experiences
+
+<br/><br clear="right"/>
 
 ---
 
