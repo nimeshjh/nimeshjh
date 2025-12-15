@@ -40,27 +40,20 @@
 <!-- 👤 ABOUT ME SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Coding Animation" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding Animation" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<br/>
+- 🔥 **Founder & CEO** @ Ignitive Labs
+- 🎮 **Multiplayer Game Developer**
+- 📦 **Unity Asset Store Publisher**
+- 🤖 **LLM & AI Specialist**
+- ⚙️ **Mechatronics Engineer**
+- 🛩️ **RC Plane Enthusiast**
 
-🔥 **Founder & CEO** at **Ignitive Labs** — A game development studio
+**Tools:** Unity • Unreal • Blender • SolidWorks • MATLAB
 
-🎮 **Specializing in** Multiplayer Games & Real-time Networking
-
-🤖 **AI Enthusiast** — LLM Integration & Intelligent Game Systems
-
-⚙️ **Mechatronics Engineer** — Bridging hardware and software
-
-🛩️ **RC Aviation Hobbyist** — Building things that fly!
-
-📦 **Unity Asset Store Publisher** — Creating tools for developers
-
-🎯 **Currently Building:** Next-gen multiplayer experiences
-
-<br/><br clear="right"/>
+<br clear="right"/>
 
 ---
 
@@ -74,8 +67,8 @@
 </h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nimeshjh&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=FF6B35&text_color=c9d1d9&bg_color=0d1117&ring_color=00D9FF" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=nimeshjh&theme=transparent&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=ffffff&sideNums=ffffff&dates=888888&background=0D1117" alt="GitHub Streak"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nimeshjh&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=FF6B35&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats-eight.vercel.app/?user=nimeshjh&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -232,7 +225,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nimeshjh&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=nimeshjh&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
